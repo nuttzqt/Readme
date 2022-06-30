@@ -1,0 +1,8 @@
+- 👋 Olá eu me chamo Edson Júnior "https://www.linkedin.com/in/edson-j%C3%BAnior-677487161/"
+- 👀 Dedico-me intensamente a aprender JavaScript e Node.js,
+- sou bacharel em Direito e em Técnico em Informática,
+- atualmente busco um emprego na Area de Programação que é onde me sinto bem, 
+- onde tenho facilidade. Estou a 15 anos nesse mercado de tecnologia e pretendo ficar mais, 
+- sou muito criativo, gosto de coisas novas, sempre tenho o desejo de completar meu conhecimento,
+- sou uma pessoa muito curiosa e comunicativa. 👀
+- 
